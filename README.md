@@ -1,2 +1,2 @@
 # final-Urithi-World
-school project
+A school project focused on preserving and embracing culture in this era of technology.
